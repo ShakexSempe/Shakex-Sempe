@@ -6,7 +6,7 @@ Front End Web Developer
 
 * 🌍  I'm based in Mahikeng, South Africa
 * ✉️  You can contact me at [bshakex@gmail.com](mailto:bshakex@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning all things Front End
 
 ### Skills
 
