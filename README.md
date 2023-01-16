@@ -1,4 +1,4 @@
-Hi 👋 My name is Boitumelo Sempe
+Hi 👋 My Name is Boitumelo Sempe
 ================================
 
 Front End Web Developer
